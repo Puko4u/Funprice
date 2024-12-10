@@ -1,8 +1,8 @@
 {
     "markup": [
         {"min": 0, "max": 4, "markup": 2},
-        {"min": 5, "max": 8, "markup": 3},
-        {"min": 9, "max": 13, "markup": 4},
+        {"min": 4, "max": 8, "markup": 3},
+        {"min": 8, "max": 13, "markup": 4},
         {"min": 13, "max": 20, "markup": 5},
         {"min": 20, "max": 25, "markup": 6},
         {"min": 25, "max": 30, "markup": 7},
